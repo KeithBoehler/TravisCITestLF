@@ -13,6 +13,8 @@ Converting LoFASM Py2 code to Py3
 def simpleAdd(num):
     return num + 5
 
+def doNothing():
+    pass
 
 print("Hello world!")
 

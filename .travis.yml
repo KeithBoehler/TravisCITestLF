@@ -5,9 +5,7 @@ virtualenv:
     system_site_packages: true
 
 
-before_script: 
-conda activate Plaython
-pip install numpy
+before_script: pip install numpy
                
 
 script: travisCI.py

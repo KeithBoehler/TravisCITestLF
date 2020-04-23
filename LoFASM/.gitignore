@@ -1,0 +1,11 @@
+*.pyc
+*~
+build/*
+dist/*
+*.vscode
+*.sublime-workspace
+.vscode/settings.json
+*.idea
+GPATH
+GRTAGS
+GTAGS

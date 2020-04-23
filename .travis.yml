@@ -8,7 +8,7 @@ virtualenv:
 before_script: pip install numpy
                
 
-script: travisCI.py
+script: python travisCI.py
 
 
 
